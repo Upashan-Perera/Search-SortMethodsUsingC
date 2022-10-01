@@ -5,8 +5,11 @@ This is a example program I made on how to understand how  Bubble/Insertion/Sele
 Theories and Knowledge -: 
 
 File reading/editing/deleting and updating
+
 Bubble Sort / Insertion Sort / Selection Sort
+
 Linear Sort / Binary Sort
+
 Array manupulation
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
